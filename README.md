@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishal Prajapati</h1>
-<h3 align="center">👨‍💼 I'm currently working as a Frontend developer at 360core.inc</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/dipesh-singh253/](https://www.linkedin.com/in/vishal-prajapati-8a763017a/))
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto:vp9628247@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=X&logoColor=white)](https://x.com/Prajapa47043585)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet)]()
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-omega-blue-73.vercel.app/)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-0088cc?style=flat-square&logo=Leetcode&logoColor=white&color=brown)]()
+![](https://komarev.com/ghpvc/?username=dipeshsingh253&style=flat-square&label=Views)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vish331&label=Profile%20views&color=0e75b6&style=flat" alt="vish331" /> </p>
 
